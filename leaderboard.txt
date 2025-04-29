@@ -1,2 +1,3 @@
-Cristiano Ronaldo,160
-
+Cristiano Ronaldo,9010
+Bambang Pamungkas,80
+Lionel Messi,20
